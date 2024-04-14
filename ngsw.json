@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1713115419467,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.0743a9874e5c201b.js",
+        "/manifest.webmanifest",
+        "/polyfills.7f8abe178a5a430b.js",
+        "/runtime.b43d0d9a9bacd8a4.js",
+        "/scripts.f66cac67568f1ff2.js",
+        "/styles.d04c8df92e7f6cbb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/blood-donation-16x9-PhotoRoom.jpg",
+        "/assets/img/bloodDrop.png",
+        "/assets/img/female.png",
+        "/assets/img/female2.png",
+        "/assets/img/logout.gif",
+        "/assets/img/male.png",
+        "/assets/img/male2.png",
+        "/assets/img/register-fail.gif",
+        "/assets/img/success.gif",
+        "/blood-donation-16x9-PhotoRoom.4096e1cdcd6bc136.jpg",
+        "/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+        "/fontawesome-webfont.cf011583fb81df9f.woff",
+        "/fontawesome-webfont.da909aa098b0ee2d.svg",
+        "/fontawesome-webfont.e9955780856cf8aa.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "ef8d0e19ee215a61589e70ed06bbc1ed8aa569f9",
+    "/assets/icons/icon-144x144.png": "ef8d0e19ee215a61589e70ed06bbc1ed8aa569f9",
+    "/assets/icons/icon-152x152.png": "ef8d0e19ee215a61589e70ed06bbc1ed8aa569f9",
+    "/assets/icons/icon-192x192.png": "8c60a6964b9ad3f5679fddae9309bf11d8703c0c",
+    "/assets/icons/icon-384x384.png": "f0ae7923460a001a588615e909b9b633c4099f83",
+    "/assets/icons/icon-512x512.png": "5ddcbac2470a89756e1e035e7673c3a8f05f1e4d",
+    "/assets/icons/icon-72x72.png": "c43571eb502267204b70b2f2eea79bd78002d40b",
+    "/assets/icons/icon-96x96.png": "60e64bc90f95b582138259bf5c1714212b1c2f33",
+    "/assets/img/blood-donation-16x9-PhotoRoom.jpg": "a797f6fee7aa28b8389b55d3cd16c039143a0202",
+    "/assets/img/bloodDrop.png": "ca96cbcae0bbcb4272d62034d7793e1509ea2eb4",
+    "/assets/img/female.png": "c70af3bf4b6737c5a19dc3a31695579a4ffbcf60",
+    "/assets/img/female2.png": "7b82b143eb268780b53ceb5451fe6a90840ec447",
+    "/assets/img/logout.gif": "76b0fe4a21add181f2f5c8768e393853acc33181",
+    "/assets/img/male.png": "1e367048a09819519fec2ae49c883f687c76c9e4",
+    "/assets/img/male2.png": "7686b6000a7050d6a7ccacd28a540777e3d31bb5",
+    "/assets/img/register-fail.gif": "68fed729a891c63f164b43f531b9760c4b6e2062",
+    "/assets/img/success.gif": "5f9ad690f02b1239f90997b0e6c7fa7f7f3bec70",
+    "/blood-donation-16x9-PhotoRoom.4096e1cdcd6bc136.jpg": "a797f6fee7aa28b8389b55d3cd16c039143a0202",
+    "/favicon.ico": "4cb0bfb37514512e01a84befa8a300465dac8df6",
+    "/fontawesome-webfont.8a7cb27d142e3e19.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/index.html": "04f5a06037c760739525bd2e136d4a4cdadf3727",
+    "/main.0743a9874e5c201b.js": "1124933c925ec8c90e815d6e5b07da8e01a7acde",
+    "/manifest.webmanifest": "15f7c66e2b79881d7054ecd72bb303c91b442e42",
+    "/polyfills.7f8abe178a5a430b.js": "a74c9e7f2f8441e2dacaa9053bbe811095c3c32c",
+    "/runtime.b43d0d9a9bacd8a4.js": "8e91e7f32661a5a0123b6fd6e9bb47d06ef06a61",
+    "/scripts.f66cac67568f1ff2.js": "59581c4be72083488031c164e718673bad374247",
+    "/styles.d04c8df92e7f6cbb.css": "dbd03774bbf186ca2f71bd2e78432abf5fac64bd"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
